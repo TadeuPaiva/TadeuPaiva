@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there, I'm Tadeu Paiva  👋
 
-<!--
-**TadeuPaiva/TadeuPaiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About 🚀
+I'm a fullstack web development student at [Rocketseat](https://www.rocketseat.com.br/).
 
-Here are some ideas to get you started:
+#### Current stack 🗃️
+- Main language: `Javascript`
+- Backend: `nodejs`
+- Frontend: `HTML5`, `CSS3`, `Javascript`, `Reactjs`
+- Layout Design: `Figma`
+- Version code control: `Git & Github`
+- Tools: `VsCode`
+- I'm mostly active within the `Rocketseat community`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Contacts 💬
+- Email: tadeupaiva11@gmail.com || tadeupaiva111@hotmail.com
+- Linkedin: https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
